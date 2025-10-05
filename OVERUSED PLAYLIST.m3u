@@ -629,14 +629,62 @@ http://161.49.17.2:6610/001/2/ch00000090990000001287/manifest.mpd?JITPDRMType=Wi
 
 
 
-#EXTINF:-1 group-logo="https://i.imgur.com/gZmGBZE.jpg",NBA DAILY LIVE
+#EXTINF:-1 group-logo="https://i.imgur.com/gZmGBZE.jpg",NBA LEAGUE PASS
 
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA1" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA DAILY LIVE",Charlotte Hornets VS Oklahoma City Thunder
-https://fhlsport201.tbafs39a1.xyz/token-LBR5nLGdLaCGvDd9wfY6yDmLlJrXhCzjb3T8xPQcRDH25LPPHUJaCosm%2BkFAVh5OFnnWkWFgk%2FUkfZIaXkBOu5xvT0%2FiY421emfRYrNIvx1RV9KORdBlzLNdg6E%2BjA%3D%3Da/cfall/s6/v3b/68q4rq28nUE0pUZ6Yl9mYJZmYaOyqJkfMJyyol5hMKD%3D/kirill/fonabovi7apuf0xona7a/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA1" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA1
+http://fortv.cc:8080/53710359/53710359/22995
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA2" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA2
+http://fortv.cc:8080/53710359/53710359/20073
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA3" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA3
+http://fortv.cc:8080/CuWH2h/761034/210466
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA4" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA4
+http://fortv.cc:8080/CuWH2h/761034/210467
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA5" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA5
+http://fortv.cc:8080/CuWH2h/761034/210468
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA6" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA6
+http://fortv.cc:8080/CuWH2h/761034/210469
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA7" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA LEAGUE PASS",NBA7
+http://fortv.cc:8080/CuWH2h/761034/210470
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA1" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA DAILY LIVE(UPDATE@8:30)",Warriors VS Lakers @8:30
-https://cutt.ly/6r0Oo5iT
+
+#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN SD" group-title="Live",ESPN SD
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN HD" group-title="Live",ESPN HD
+https://tvpass.org/live/ESPN/hd
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA SD" group-title="Live",NBA TV USA SD
+https://tvpass.org/live/NBATV/sd
+#EXTINF:-1 tvg-id="nba-tv-usa" tvg-name="NBA TV USA HD" group-title="Live",NBA TV USA HD
+https://tvpass.org/live/NBATV/hd
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed SD" group-title="Live",TNT Eastern Feed SD
+https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed HD" group-title="Live",TNT Eastern Feed HD
+https://tvpass.org/live/TNTEast/hd
+#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern SD" group-title="Live",truTV USA Eastern SD
+https://tvpass.org/live/truTVEast/sd
+#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern HD" group-title="Live",truTV USA Eastern HD
+https://tvpass.org/live/truTVEast/hd
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 SD" group-title="Live",TSN1 SD
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 tvg-id="tsn1" tvg-name="TSN1 HD" group-title="Live",TSN1 HD
+https://tvpass.org/live/tsn1/hd
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2 SD" group-title="Live",TSN2 SD
+https://tvpass.org/live/tsn2/sd
+#EXTINF:-1 tvg-id="tsn2" tvg-name="TSN2 HD" group-title="Live",TSN2 HD
+https://tvpass.org/live/tsn2/hd
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3 SD" group-title="Live",TSN3 SD
+https://tvpass.org/live/tsn3/sd
+#EXTINF:-1 tvg-id="tsn3" tvg-name="TSN3 HD" group-title="Live",TSN3 HD
+https://tvpass.org/live/tsn3/hd
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4 SD" group-title="Live",TSN4 SD
+https://tvpass.org/live/tsn4/sd
+#EXTINF:-1 tvg-id="tsn4" tvg-name="TSN4 HD" group-title="Live",TSN4 HD
+https://tvpass.org/live/tsn4/hd
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5 SD" group-title="Live",TSN5 SD
+https://tvpass.org/live/tsn5/sd
+#EXTINF:-1 tvg-id="tsn5" tvg-name="TSN5 HD" group-title="Live",TSN5 HD
+https://tvpass.org/live/tsn5/hd
