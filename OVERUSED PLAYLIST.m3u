@@ -1,0 +1,643 @@
+#EXTM3U
+#EXTINF:-1 group-logo="https://i.imgur.com/gZmGBZE.jpg",HayabusaTV
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Kapamilya_Channel_hd_flat_latest.png/revision/latest?cb=20240502124554" group-title="HayabusaTV",KAPAMILYA CHANNEL HD
+http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/gma-ph.png" group-title="HayabusaTV",GMA 7
+http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest?cb=20230410113026" group-title="HayabusaTV",TV5
+http://161.49.17.2:6610/001/2/ch00000090990000001088/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/93/GTV_Logo_2021.png/revision/latest?cb=20230518051736" group-title="HayabusaTV",GTV
+http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png" group-title="HayabusaTV",NBA TV Phillippines
+http://161.49.17.2:6610/001/2/ch00000090990000001064/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/2000px-RPTV_%282024%29.svg.png" group-title="HayabusaTV",RPTV
+http://161.49.17.2:6610/001/2/ch00000090990000001094/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2000px-One_Sports_logo.svg.png" group-title="HayabusaTV",ONE SPORTS
+http://161.49.17.2:6610/001/2/ch00000090990000001083/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/9scFJ3s/Cinema-One-Logo-2020.png" group-title="HayabusaTV",CINEMAONE
+http://161.49.17.2:6610/001/2/ch00000090990000001283/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="phcathenatv/pbarush" tvg-logo="https://i.imgur.com/tvxCVRr.png" group-title="HayabusaTV",PBA RUSH
+http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:C0:8C:65&stream=914598&extension=ts&play_token=Xs3AORzg6D
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="HayabusaTV",PBO
+http://161.49.17.2:6610/001/2/ch00000090990000001078/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hbo-us.png" group-title="HayabusaTV",HBO (CON)
+http://161.49.17.2:6610/001/2/ch00000090990000001065/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="3abninternational" tvg-name="3ABN INTERNATIONAL (CON)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/3abn-us.png" group-title="HayabusaTV",3ABN INTERNATIONAL
+http://161.49.17.2:6610/001/2/ch00000090990000001183/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="a2z" tvg-name="A2Z" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/a2z-ph.png" group-title="HayabusaTV",A2Z
+http://161.49.17.2:6610/001/2/ch00000090990000001087/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/abc-au.png" group-title="HayabusaTV",ABC AUSTRALIA
+http://161.49.17.2:6610/001/2/ch00000090990000001111/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/aljazeera-uk.png" group-title="HayabusaTV",AL JAZEERA
+http://161.49.17.2:6610/001/2/ch00000090990000001343/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-arab-emirates/al-saudiya-ae.png" group-title="HayabusaTV",AL SAUDIYA
+http://161.49.17.2:6610/001/2/ch00000090990000001176/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pictr.com/images/2025/03/28/xn4AoX.png" group-title="HayabusaTV",ALIW CHANNEL 23
+http://161.49.17.2:6610/001/2/ch00000090990000001109/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://alltv.ph/wp-content/uploads/2024/06/LOGO-ALLTV-NEW.png" group-title="HayabusaTV",ALLTV
+http://161.49.17.2:6610/001/2/ch00000090990000001179/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="HayabusaTV",ANC
+http://161.49.17.2:6610/001/2/ch00000090990000001274/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/animal-planet-us.png" group-title="HayabusaTV",ANIMAL PLANET
+http://161.49.17.2:6610/001/2/ch00000090990000001335/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/animax-hk.png" group-title="HayabusaTV",ANIMAX
+http://161.49.17.2:6610/001/2/ch00000090990000001315/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/arirang-int.png" group-title="HayabusaTV",ARIRANG
+http://161.49.17.2:6610/001/2/ch00000090990000001107/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/asian-food-network-hk.png" group-title="HayabusaTV",ASIAN FOOD NETWORK
+http://161.49.17.2:6610/001/2/ch00000090990000001342/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/axn-es.png" group-title="HayabusaTV",AXN
+http://161.49.17.2:6610/001/2/ch00000090990000001182/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/bbc-news-uk.png" group-title="HayabusaTV",BBC NEWS
+http://161.49.17.2:6610/001/2/ch00000090990000001095/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRzp4mmOlDqQJYDHOkpQ4G6pflLvDV5d5S5Q&s" group-title="HayabusaTV",BILYONARYO NEWS CHANNEL
+http://161.49.17.2:6610/001/2/ch00000090990000001124/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/bloomberg-television-us.png" group-title="HayabusaTV",BLOOMBERG
+http://161.49.17.2:6610/001/2/ch00000090990000001153/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",BS NITTELE
+http://161.49.17.2:6610/001/2/ch00000090990000001213/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",BS FUJI
+http://161.49.17.2:6610/001/2/ch00000090990000001165/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",BS10 STAR CHANNEL
+http://161.49.17.2:6610/001/2/ch00000090990000001202/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoon-network-us.png" group-title="HayabusaTV",CARTOON NETWORK
+http://161.49.17.2:6610/001/2/ch00000090990000001178/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cartoonito-us.png" group-title="HayabusaTV",CARTOONITO
+http://161.49.17.2:6610/001/2/ch00000090990000001125/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/singapore/cctv4-sg.png" group-title="HayabusaTV",CCTV4
+http://161.49.17.2:6610/001/2/ch00000090990000001223/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/celestial-classic-movies-hk.png" group-title="HayabusaTV",CELESTIAL CLASSIC MOVIES
+http://161.49.17.2:6610/001/2/ch00000090990000001244/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="Celestial Movies Pinoy.ph" tvg-name="Celestial Movies Pinoy" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="HayabusaTV",Celestial Movies Pinoy
+#KODIPROP:contentlookup=False
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.drm_legacy=com.widevine.alpha|http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://161.49.17.2:6610/001/2/ch00000090990000001077/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/cgtn-int.png" group-title="HayabusaTV",CGTN
+http://161.49.17.2:6610/001/2/ch00000090990000001146/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/cgtn-documentary-int.png" group-title="HayabusaTV",CGTN DOCUMENTARY
+http://161.49.17.2:6610/001/2/ch00000090990000001110/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/world-asia/cinema-world-asi.png" group-title="HayabusaTV",CINEMA WORLD
+http://161.49.17.2:6610/001/2/ch00000090990000001158/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/cinemax-ph.png" group-title="HayabusaTV",CINEMAX
+http://161.49.17.2:6610/001/2/ch00000090990000001108/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/cine-mo-ph.png" group-title="HayabusaTV",CINEMO!
+http://161.49.17.2:6610/001/2/ch00000090990000001254/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/cltv-ph.png" group-title="HayabusaTV",CLTV36
+http://161.49.17.2:6610/001/2/ch00000090990000001314/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/cna-int.png" group-title="HayabusaTV",CNA
+http://161.49.17.2:6610/001/2/ch00000090990000001106/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnn-us.png" group-title="HayabusaTV",CNN INTERNATIONAL
+http://161.49.17.2:6610/001/2/ch00000090990000001073/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",CONGRESS TV (CON)
+http://161.49.17.2:6610/001/2/ch00000090990000001328/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crime-and-investigation-ca.png" group-title="HayabusaTV",CRIME & INVESTIGATION NETWORK
+http://161.49.17.2:6610/001/2/ch00000090990000001144/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/ctv-ca.png" group-title="HayabusaTV",CTV
+http://161.49.17.2:6610/001/2/ch00000090990000001164/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/daai-tv-id.png" group-title="HayabusaTV",DAAI TV
+http://161.49.17.2:6610/001/2/ch00000090990000001201/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/discovery-asia-hk.png" group-title="HayabusaTV",DISCOVERY ASIA
+http://161.49.17.2:6610/001/2/ch00000090990000001334/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/discovery-channel-us.png" group-title="HayabusaTV",DISCOVERY CHANNEL
+http://161.49.17.2:6610/001/2/ch00000090990000001194/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/dw-int.png" group-title="HayabusaTV",DW
+http://161.49.17.2:6610/001/2/ch00000090990000001166/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/dzrh-tv-ph.png" group-title="HayabusaTV",DZRH TV
+http://161.49.17.2:6610/001/2/ch00000090990000001174/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/euro-news-int.png" group-title="HayabusaTV",EURO NEWS
+http://161.49.17.2:6610/001/2/ch00000090990000001336/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/ewtn-ph.png" group-title="HayabusaTV",EWTN
+http://161.49.17.2:6610/001/2/ch00000090990000001104/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/fashion-tv-int.png" group-title="HayabusaTV",FASHION TV
+http://161.49.17.2:6610/001/2/ch00000090990000001102/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fox-news-us.png" group-title="HayabusaTV",FOW NEWS CHANNEL
+http://161.49.17.2:6610/001/2/ch00000090990000001105/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/france-24-int.png" group-title="HayabusaTV",FRANCE24
+http://161.49.17.2:6610/001/2/ch00000090990000001157/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",GLOBAL TREKKER
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
+http://161.49.17.2:6610/001/2/ch00000090990000001203/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",GOLDEN NATION NETWORK
+http://161.49.17.2:6610/001/2/ch00000090990000001234/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",HALLYPOP
+http://161.49.17.2:6610/001/2/ch00000090990000001152/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hgtv-us.png" group-title="HayabusaTV",HGTV
+http://161.49.17.2:6610/001/2/ch00000090990000001162/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" group-title="HayabusaTV",HISTORY
+http://161.49.17.2:6610/001/2/ch00000090990000001074/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/IBC_13_Logo_2011.svg/1200px-IBC_13_Logo_2011.svg.png" group-title="HayabusaTV",IBC
+http://161.49.17.2:6610/001/2/ch00000090990000001089/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/1/1e/INC_TV_White_Logo_July_2022.png" group-title="HayabusaTV",INC TV
+http://161.49.17.2:6610/001/2/ch00000090990000001092/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/0b/Jeepney_TV_3D_Logo_2015.png/revision/latest?cb=20230326142526" group-title="HayabusaTV",JEEPNEY TV
+http://161.49.17.2:6610/001/2/ch00000090990000001250/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",KBS KOREA
+http://161.49.17.2:6610/001/2/ch00000090990000001246/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/kbs-world-int.png" group-title="HayabusaTV",KBS WORLD
+http://161.49.17.2:6610/001/2/ch00000090990000001353/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/kix-ph.png" group-title="HayabusaTV",KIX
+http://161.49.17.2:6610/001/2/ch00000090990000001263/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.squarespace-cdn.com/content/v1/61236a89ddeb4615e347e1c3/f0f477fa-5c26-473f-8e6c-45e0bafd2f42/logo-hori-nobg-channel.png" group-title="HayabusaTV",KNOWLEDGE CHANNEL
+http://161.49.17.2:6610/001/2/ch00000090990000001340/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",LIFETIME
+http://161.49.17.2:6610/001/2/ch00000090990000001075/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/light-tv-us.png" group-title="HayabusaTV",LIGHT TV
+http://161.49.17.2:6610/001/2/ch00000090990000001103/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Wsj7iPd.png" group-title="HayabusaTV",LIVING ASIA
+http://161.49.17.2:6610/001/2/ch00000090990000001154/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pictr.com/images/2025/02/02/xGHGrZ.png" group-title="HayabusaTV",LOTUS MACAU
+http://161.49.17.2:6610/001/2/ch00000090990000001196/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",METRO CHANNEL
+http://161.49.17.2:6610/001/2/ch00000090990000001267/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/nordic/norway/motorvision-plus-no.png" group-title="HayabusaTV",MOTORVISION+
+http://161.49.17.2:6610/001/2/ch00000090990000001245/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XPAXVUk.png" group-title="HayabusaTV",MYX
+http://161.49.17.2:6610/001/2/ch00000090990000001252/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="HayabusaTV",NET 25
+http://161.49.17.2:6610/001/2/ch00000090990000001090/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",NHK BS
+http://161.49.17.2:6610/001/2/ch00000090990000001214/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/nhk-world-japan-int.png" group-title="HayabusaTV",NHK WORLD JAPAN
+http://161.49.17.2:6610/001/2/ch00000090990000001145/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nick-jr-us.png" group-title="HayabusaTV",NICK JR.
+http://161.49.17.2:6610/001/2/ch00000090990000001215/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nickelodeon-us.png" group-title="HayabusaTV",NICKELODEON
+http://161.49.17.2:6610/001/2/ch00000090990000001313/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/2000px-OneNewsPH_logo.svg.png" group-title="HayabusaTV",ONE NEWS
+http://161.49.17.2:6610/001/2/ch00000090990000001084/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/OnePH_logo.svg/2000px-OnePH_logo.svg.png" group-title="HayabusaTV",ONE PH
+http://161.49.17.2:6610/001/2/ch00000090990000001198/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zVh11EA.png" group-title="HayabusaTV",ORAS NG HIMALA
+http://161.49.17.2:6610/001/2/ch00000090990000001175/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",PHOENIX TELEVISION
+http://161.49.17.2:6610/001/2/ch00000090990000001113/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NOBlLVC.png" group-title="HayabusaTV",PINOY XTREME
+http://161.49.17.2:6610/001/2/ch00000090990000001098/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/XLqcPHP/Prem-Football-new-logo-1.png" group-title="HayabusaTV",PREMIERE FOOTBALL
+http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/i1njy1x.png" group-title="HayabusaTV",PREMIER SPORTS
+http://161.49.17.2:6610/001/2/ch00000090990000001135/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/74sqhMT/y-NQ6f-S409nl-XW19-Tu-CSME-transformed.png" group-title="HayabusaTV",PREMIER SPORTS 2
+http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pictr.com/images/2025/02/02/xGH8TG.jpg" group-title="HayabusaTV",PTV
+http://161.49.17.2:6610/001/2/ch00000090990000001086/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",RADIO MARIA
+http://161.49.17.2:6610/001/2/ch00000090990000001327/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/28X1hNb.png" group-title="HayabusaTV",RADYO BANDIDO TV
+http://161.49.17.2:6610/001/2/ch00000090990000001338/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/rj-tv-ph.png" group-title="HayabusaTV",RJ DIGI-TV
+http://161.49.17.2:6610/001/2/ch00000090990000001159/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",ROCK ENTERTAINMENT
+http://161.49.17.2:6610/001/2/ch00000090990000001326/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ST060qy.png" group-title="HayabusaTV",ROCK MNL
+http://161.49.17.2:6610/001/2/ch00000090990000001177/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WL2ugeZ.png" group-title="HayabusaTV",SMNI
+http://161.49.17.2:6610/001/2/ch00000090990000001155/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/K3knyIN.png" group-title="HayabusaTV",SOLAR SPORTS
+http://161.49.17.2:6610/001/2/ch00000090990000001081/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="HayabusaTV",SOLARFLIX
+http://161.49.17.2:6610/001/2/ch00000090990000001243/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/edge-sport-vod.png" group-title="HayabusaTV",SPORTDIGITAL EDGE
+http://161.49.17.2:6610/001/2/ch00000090990000001406/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/spotv-ph.png" group-title="HayabusaTV",SPOTV (CON)
+http://161.49.17.2:6610/001/2/ch00000090990000001133/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/spotv2-ph.png" group-title="HayabusaTV",SPOTV2 (CON)
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+http://161.49.17.2:6610/001/2/ch00000090990000001200/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tapdmv.com/logo-TapActionFlix-2021.png" group-title="HayabusaTV",TAP ACTION FLIX
+http://161.49.17.2:6610/001/2/ch00000090990000001305/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TapEdge-ph.png" group-title="HayabusaTV",TAP EDGE
+http://161.49.17.2:6610/001/2/ch00000090990000001150/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/TAP_Movies_logo.png/revision/latest?cb=20210920125940" group-title="HayabusaTV",TAP MOVIES
+http://161.49.17.2:6610/001/2/ch00000090990000001304/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="HayabusaTV",TAP SPORTS
+http://161.49.17.2:6610/001/2/ch00000090990000001151/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="HayabusaTV",TAP TV
+http://161.49.17.2:6610/001/2/ch00000090990000001149/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",TBN ASIA
+http://161.49.17.2:6610/001/2/ch00000090990000001147/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/australia/tbn-inspire-au.png" group-title="HayabusaTV",TBN INSPIRE
+http://161.49.17.2:6610/001/2/ch00000090990000001148/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e5/TeleRadyo_Serbisyo_3D_Logo_2023.png" group-title="HayabusaTV",TELERADYO SERBISYO
+http://161.49.17.2:6610/001/2/ch00000090990000001249/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/hong-kong/thrill-hk.png" group-title="HayabusaTV",THRILL
+http://161.49.17.2:6610/001/2/ch00000090990000001253/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/tlc-us.png" group-title="HayabusaTV",TLC
+http://161.49.17.2:6610/001/2/ch00000090990000001181/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://tmc.ph/storage/images/299570476c6f0309545110c592b6a63b/c/TMC_LOGO_crop-default.png" group-title="HayabusaTV",TMC
+http://161.49.17.2:6610/001/2/ch00000090990000001080/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pictr.com/images/2025/02/13/xGsKf1.jpg" group-title="HayabusaTV",TV MARIA
+http://161.49.17.2:6610/001/2/ch00000090990000001160/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/tv5-monde-int.png" group-title="HayabusaTV",TV5 MONDE
+http://161.49.17.2:6610/001/2/ch00000090990000001156/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/2560px-UNTV-Logo-2016.svg.png" group-title="HayabusaTV",UNTV
+http://161.49.17.2:6610/001/2/ch00000090990000001091/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/misc/vod/usa-today-vod.png" group-title="HayabusaTV",USA TODAY
+http://161.49.17.2:6610/001/2/ch00000090990000001199/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",FILAM TV
+http://161.49.17.2:6610/001/2/ch00000090990000001195/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pictr.com/images/2025/02/02/xGHYPP.png" group-title="HayabusaTV",VIVACINEMA
+http://161.49.17.2:6610/001/2/ch00000090990000001079/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rai-1-it.png" group-title="HayabusaTV", RAI ITALLIA
+http://161.49.17.2:6610/001/2/ch00000090990000001099/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/philippines/warner-tv-ph.png" group-title="HayabusaTV",WARNER TV
+http://161.49.17.2:6610/001/2/ch00000090990000001096/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",XING KONG
+http://161.49.17.2:6610/001/2/ch00000090990000001337/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cnbc-us.png" group-title="HayabusaTV",CNBC (CON)
+http://161.49.17.2:6610/001/2/ch00000090990000001344/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gZmGBZE.jpg" group-title="HayabusaTV",SEA TODAY
+http://161.49.17.2:6610/001/2/ch00000090990000001287/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+
+
+
+
+
+
+####################################### CATEGORIZED CHANNELS ######################################
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://i.imgur.com/gZmGBZE.jpg",NBA DAILY LIVE STREAM
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA1" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA DAILY LIVE",Charlotte Hornets VS Oklahoma City Thunder
+https://cutt.ly/hr0Oo7If
+https://fhlsport201.tbafs39a1.xyz/token-LBR5nLGdLaCGvDd9wfY6yDmLlJrXhCzjb3T8xPQcRDH25LPPHUJaCosm%2BkFAVh5OFnnWkWFgk%2FUkfZIaXkBOu5xvT0%2FiY421emfRYrNIvx1RV9KORdBlzLNdg6E%2BjA%3D%3Da/cfall/s6/v3b/68q4rq28nUE0pUZ6Yl9mYJZmYaOyqJkfMJyyol5hMKD%3D/kirill/fonabovi7apuf0xona7a/master.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA1" tvg-logo="https://i.imghippo.com/files/msuw9713pM.jpg" group-title="NBA DAILY LIVE",Warriors VS Lakers @8:30
+https://cutt.ly/6r0Oo5iT
